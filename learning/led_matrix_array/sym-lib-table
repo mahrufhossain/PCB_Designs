@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ArduinoProMiniSimple")(type "KiCad")(uri "${KIPRJMOD}/4x8x8-LED-Matrix-Display-project-files-main/Libraries/Symbols/ArduinoProMiniSimple.kicad_sym")(options "")(descr ""))
+  (lib (name "Switch Tactile OFF (ON) SPST Round Button")(type "KiCad")(uri "${KIPRJMOD}/4x8x8-LED-Matrix-Display-project-files-main/Libraries/Symbols/Switch Tactile OFF (ON) SPST Round Button.kicad_sym")(options "")(descr ""))
+  (lib (name "SS12D07VG4")(type "KiCad")(uri "${KIPRJMOD}/4x8x8-LED-Matrix-Display-project-files-main/Libraries/Symbols/SS12D07VG4.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Footprints")(type "KiCad")(uri "${KIPRJMOD}/4x8x8-LED-Matrix-Display-project-files-main/Libraries/Footprints")(options "")(descr ""))
+)
