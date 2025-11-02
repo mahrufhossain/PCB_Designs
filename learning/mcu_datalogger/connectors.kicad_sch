@@ -959,28 +959,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(rectangle
-		(start 99.06 63.5)
-		(end 165.1 119.38)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 6213455d-107a-49ac-affb-ea0ca0031059)
-	)
-	(text "Connectors"
-		(exclude_from_sim no)
-		(at 104.14 62.484 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "e669f9ca-4e84-4e66-95d8-48b6fa29b7da")
-	)
 	(hierarchical_label "RX"
 		(shape input)
 		(at 149.86 81.28 0)
@@ -1301,6 +1279,12 @@
 		)
 		(instances
 			(project "connectors"
+				(path "/58e3bb87-6680-4c5a-ab7a-66531b46fe94/437b2a52-4fcd-403a-be21-fbd36d934856"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+			(project "connectors"
 				(path "/c28cf371-00a5-4adb-a3d0-0b3e9f5dd3b8"
 					(reference "J2")
 					(unit 1)
@@ -1374,6 +1358,12 @@
 			(uuid "82ef44d7-c639-4513-9208-72c64caf381c")
 		)
 		(instances
+			(project "connectors"
+				(path "/58e3bb87-6680-4c5a-ab7a-66531b46fe94/437b2a52-4fcd-403a-be21-fbd36d934856"
+					(reference "J3")
+					(unit 1)
+				)
+			)
 			(project "connectors"
 				(path "/c28cf371-00a5-4adb-a3d0-0b3e9f5dd3b8"
 					(reference "J3")
@@ -1454,6 +1444,12 @@
 			(uuid "1a3421ad-b520-42ec-b16a-2fafd72a931f")
 		)
 		(instances
+			(project "connectors"
+				(path "/58e3bb87-6680-4c5a-ab7a-66531b46fe94/437b2a52-4fcd-403a-be21-fbd36d934856"
+					(reference "J4")
+					(unit 1)
+				)
+			)
 			(project "connectors"
 				(path "/c28cf371-00a5-4adb-a3d0-0b3e9f5dd3b8"
 					(reference "J4")
@@ -1544,6 +1540,12 @@
 		)
 		(instances
 			(project "connectors"
+				(path "/58e3bb87-6680-4c5a-ab7a-66531b46fe94/437b2a52-4fcd-403a-be21-fbd36d934856"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+			(project "connectors"
 				(path "/c28cf371-00a5-4adb-a3d0-0b3e9f5dd3b8"
 					(reference "J1")
 					(unit 1)
@@ -1551,10 +1553,4 @@
 			)
 		)
 	)
-	(sheet_instances
-		(path "/"
-			(page "1")
-		)
-	)
-	(embedded_fonts no)
 )
