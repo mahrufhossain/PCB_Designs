@@ -3198,7 +3198,7 @@
 		(uuid "fed3473a-2969-4a6a-8cdb-b563f283073c")
 	)
 	(label "DIN1"
-		(at 168.91 100.33 0)
+		(at 168.91 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3208,7 +3208,7 @@
 		(uuid "012fdc5c-18d1-4aa1-bbf9-a22ad2fc68ac")
 	)
 	(label "DIN0"
-		(at 132.08 100.33 0)
+		(at 132.08 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3248,7 +3248,7 @@
 		(uuid "42dfd0bf-078e-45a8-8d0a-2d220c0ea623")
 	)
 	(label "CLK0"
-		(at 132.08 97.79 0)
+		(at 132.08 105.41 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3268,7 +3268,7 @@
 		(uuid "4d19e255-f5c9-4600-b2df-fc71c44eadd6")
 	)
 	(label "CS0"
-		(at 132.08 105.41 0)
+		(at 132.08 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3318,7 +3318,7 @@
 		(uuid "8c1b4e1b-85b3-4e91-82fe-3ff8e3fc959f")
 	)
 	(label "CLK1"
-		(at 168.91 97.79 0)
+		(at 168.91 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3328,7 +3328,7 @@
 		(uuid "91eda940-a557-4247-91f5-8aab074ec809")
 	)
 	(label "CLK3"
-		(at 227.33 97.79 0)
+		(at 227.33 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3338,7 +3338,7 @@
 		(uuid "96e39d8d-ba76-4fce-8aae-6fdd1083f0b1")
 	)
 	(label "CS2"
-		(at 198.12 102.87 0)
+		(at 198.12 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3368,7 +3368,7 @@
 		(uuid "a0b6eae6-189e-426b-ad69-ffdb132068f6")
 	)
 	(label "DIN2"
-		(at 198.12 100.33 0)
+		(at 198.12 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3388,7 +3388,7 @@
 		(uuid "b89482c2-5bc2-47cd-8074-f2ab67a8be1a")
 	)
 	(label "CS1"
-		(at 168.91 102.87 0)
+		(at 168.91 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3438,7 +3438,7 @@
 		(uuid "c1b65ccb-1380-495e-acbf-208bae261c5b")
 	)
 	(label "CS3"
-		(at 227.33 102.87 0)
+		(at 227.33 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3448,7 +3448,7 @@
 		(uuid "c34361b9-2021-423f-a66a-cc6ad5c5c7f5")
 	)
 	(label "CLK2"
-		(at 198.12 97.79 0)
+		(at 198.12 102.87 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3458,7 +3458,7 @@
 		(uuid "cb7da82c-3b59-49e5-8100-9df14d3573db")
 	)
 	(label "DIN3"
-		(at 227.33 100.33 0)
+		(at 227.33 97.79 0)
 		(effects
 			(font
 				(size 1.27 1.27)
